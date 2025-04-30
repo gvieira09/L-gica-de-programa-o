@@ -1,0 +1,10 @@
+01- fechar todas as abas do computador 
+02- desligar o computador
+03- esperar a tela ficar preta
+04- higienizar o notebook e mouse com álcool 
+05- desconectar os cabos
+06- esperar o seu numero ser chamado
+07- guardar notebook e mouse
+08- arrumar os fios da mesa
+09- aguardar os professores nos liberar
+10- sair da sala
